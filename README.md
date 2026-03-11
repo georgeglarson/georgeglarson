@@ -9,6 +9,7 @@ Wrapping up a 7-year run directing technology for a mid-size manufacturer. Looki
 **Career arc:** Sony Electronics → medical billing at scale → PLC programming → manufacturing technology leadership
 
 #### Current work
+- [Fracture](https://github.com/georgeglarson/Fracture) — legacy codebase modernization case study: Mozilla's 2012 BrowserQuest rebuilt as a production multiplayer RPG (250 files, 2,229 tests, AI NPCs). [Play it live](https://fracture.georgelarson.me)
 - [netgrep](https://github.com/georgeglarson/netgrep) — modern ngrep replacement in Rust: TCP reassembly, TLS decryption, interactive TUI
 - [termshark](https://github.com/georgeglarson/termshark) — modernized fork of termshark (Go): refactored architecture, security audit, web UI
 - Studying Stanford CS336 — Language Modeling from Scratch
