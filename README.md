@@ -1,22 +1,21 @@
 ### George Larson
 
-Director of Technology with 25+ years building software, infrastructure, and manufacturing systems.
+Director of Technology. 25 years building software, infrastructure, and manufacturing systems.
 
-Wrapping up a 7-year run directing technology for a mid-size manufacturer. Looking for my next full-time leadership role — hands-on, close to the keyboard.
+Looking for hands-on technical leadership. Close to the keyboard.
 
-**Languages:** Python, Go, Rust, C#, TypeScript, Bash, C++
+**Languages:** Rust, Go, Python, TypeScript, C#, C++, Bash
 **Infrastructure:** Linux, Kubernetes, GitLab CI/CD, PostgreSQL, security hardening
-**Career arc:** Sony Electronics → medical billing at scale → PLC programming → manufacturing technology leadership
+**Arc:** Sony Electronics → medical billing at scale → PLC programming → manufacturing technology leadership
 
-#### Current work
-- [Fracture](https://github.com/georgeglarson/Fracture) — legacy codebase modernization case study: Mozilla's 2012 BrowserQuest rebuilt as a production multiplayer RPG (250 files, 2,229 tests, AI NPCs). [Play it live](https://fracture.georgelarson.me)
-- [netgrep](https://github.com/georgeglarson/netgrep) — modern ngrep replacement in Rust: TCP reassembly, TLS decryption, interactive TUI
-- [termshark](https://github.com/georgeglarson/termshark) — modernized fork of termshark (Go): refactored architecture, security audit, web UI
+#### Projects
+
+- [Fracture](https://github.com/georgeglarson/Fracture) — legacy modernization case study. Mozilla's 2012 BrowserQuest rebuilt as a production multiplayer RPG. 280 files, 3,161 tests, AI NPCs, OpenTelemetry. [Play it live](https://fracture.georgelarson.me)
+- [netgrep](https://github.com/georgeglarson/netgrep) — modern ngrep replacement in Rust. TCP reassembly, TLS 1.2/1.3 decryption, interactive TUI
+- [termshark](https://github.com/georgeglarson/termshark) — modernized termshark fork in Go. Refactored architecture, security audit, experimental web UI
+- [venice-dev-tools](https://github.com/georgeglarson/venice-dev-tools) — TypeScript SDK monorepo for Venice AI. npm packages, 170+ tests, rate limiting, streaming
+- [deep-research-privacy](https://github.com/georgeglarson/deep-research-privacy) — privacy-first AI research tool. Venice.ai + Brave Search, zero data collection. 33 ★
+- [codetest](https://github.com/georgeglarson/codetest) — six problems, six languages (Rust, Zig, Perl, Python, Go, TypeScript/React). 968 tests. [Live demo](https://truefit.georgelarson.me)
 - Studying Stanford CS336 — Language Modeling from Scratch
-
-#### Earlier projects
-- Containerized security tools (Wickr, Bitmessage) for encrypted communication
-- IP blocklist automation with ipset/iptables
-- Venice AI ecosystem: SDKs, developer tools, and privacy-focused integrations
 
 [georgelarson.me](https://georgelarson.me) · [resume](https://georgelarson.me/resume.html) · [schedule time](https://georgelarson.me/schedule.html) · [LinkedIn](https://www.linkedin.com/in/georgelarson/)
