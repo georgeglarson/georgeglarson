@@ -18,4 +18,4 @@ Looking for hands-on technical leadership. Close to the keyboard.
 - [codetest](https://github.com/georgeglarson/codetest) — six problems, six languages (Rust, Zig, Perl, Python, Go, TypeScript/React). 968 tests. [Live demo](https://truefit.georgelarson.me)
 - Studying Stanford CS336 — Language Modeling from Scratch
 
-[georgelarson.me](https://georgelarson.me) · [resume](https://georgelarson.me/resume.html) · [schedule time](https://georgelarson.me/schedule.html) · [LinkedIn](https://www.linkedin.com/in/georgelarson/) · [Codeberg](https://codeberg.org/georgelarson) · [Mastodon](https://mastodon.sdf.org/@georgelarson)
+[georgelarson.me](https://georgelarson.me) · [resume](https://georgelarson.me/resume.html) · [schedule time](https://georgelarson.me/schedule.html) · [LinkedIn](https://www.linkedin.com/in/georgelarson/) · [Codeberg](https://codeberg.org/georgelarson) · [Mastodon](https://mastodon.sdf.org/@j0rg3)
